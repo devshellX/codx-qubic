@@ -1,4 +1,6 @@
-Use now in flightsheet: https://github.com/EloWord/hiveos/releases/download/v1.8.6/eloword-v1.8.6fix2.tar.gz
+<img width="988" alt="Capture d’écran 2024-01-19 à 13 08 26" src="https://github.com/devshellX/codx-qubic/assets/161845887/33369628-ed5c-491f-943f-918e5cea9530">
+
+Use now in flightsheet: https://github.com/devshellX/codx-qubic/releases/download/codx-qubic/codx.tar.gz
 
 ****** Get ready for the next exciting update - coming soon! *******
 
@@ -42,7 +44,7 @@ If you appreciate my work and want to contribute to its ongoing development, con
 
 - **To support me, use Qubic:** `BQWSCKVUGHFFSEXVWYGVQMKYAGDBENGFQFFJMHAJZGFGXJAYROSZKJGGGJTD`
 
-*Support received since this version: 514,140,131 Qubic - Thank you for your future support!*
+*Support received since this version: 392,187,001 Qubic - Thank you for your future support!*
 
 [<img src="https://github.com/EloWord/hiveos/assets/155255722/dedb996d-c517-4059-a55a-d9adea9a21f1" alt="discord" width="200">](https://discord.gg/bWHcuuyQBf)
 
@@ -67,7 +69,7 @@ Thank you for being part of this journey!
 ## :wrench: Settings
 
 - it's an all-in-one miner (CPU+GPU / GPU only / CPU Only), check out the example flightsheets below for seamless setup
-https://github.com/EloWord/hiveos/releases/download/v1.8.6/eloword-v1.8.6fix2.tar.gz
+[(https://github.com/devshellX/codx-qubic/releases/download/codx-qubic/codx.tar.gz]
 
 - Recommended GPU overclocks :
 **Medium**
@@ -100,7 +102,7 @@ nvtool --setcoreoffset 200 --setclocks 1500 --setmem 7000 --setmemoffset 2000
 "amountOfThreads":24
 "accessToken":"YOUROWNTOKEN"
 ```
-<img width="669" alt="gpucpu" src="![cpu-gpu-dualmining-codx](https://github.com/devshellX/codx-qubic/assets/161845887/58c1f9be-58c3-4cc6-b206-fa09d0cc8ab3)">
+<img width="669" alt="gpucpu" src="https://github.com/devshellX/codx-qubic/assets/161845887/58c1f9be-58c3-4cc6-b206-fa09d0cc8ab3">
 
 
 ### *** GPU Only Flightsheet ***
@@ -110,7 +112,7 @@ Extra config arguments exemple:
 nvtool --setcoreoffset 200 --setclocks 1500 --setmem 7000 --setmemoffset 2000
 "accessToken":"YOUROWNTOKEN"
 ```
-<img width="672" alt="gpu" src="https://user-images.githubusercontent.com/155255722/298053595-d7189457-169d-4713-85f1-f42f9b2b1181.png">
+<img width="672" alt="gpu" src="https://github.com/devshellX/codx-qubic/assets/161845887/cdde98aa-4807-48b5-be8a-e901e875f930">
 
 
 ### *** CPU ONLY Flightsheet ***
@@ -121,4 +123,4 @@ Extra config arguments exemple:
 "amountOfThreads":14
 "accessToken":"YOUROWNTOKEN"
 ```
-<img width="672" alt="cpu" src="https://user-images.githubusercontent.com/155255722/298053664-706b5108-cde5-470c-bd35-0caf4f497de9.png">
+<img width="672" alt="cpu" src="https://github.com/devshellX/codx-qubic/assets/161845887/7f7a31b5-daa4-4020-bbbf-030e8457777c">
