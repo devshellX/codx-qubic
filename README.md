@@ -46,7 +46,7 @@ If you appreciate my work and want to contribute to its ongoing development, con
 
 *Support received since this version: 392,187,001 Qubic - Thank you for your future support!*
 
-[<img src="https://github.com/EloWord/hiveos/assets/155255722/dedb996d-c517-4059-a55a-d9adea9a21f1" alt="discord" width="200">](https://discord.gg/bWHcuuyQBf)
+[<img src="https://github.com/EloWord/hiveos/assets/155255722/dedb996d-c517-4059-a55a-d9adea9a21f1" alt="discord" width="200">](https://discord.gg/W5sVPw2s6N)
 
 Thank you for being part of this journey!
 <br>
