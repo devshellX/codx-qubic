@@ -42,7 +42,7 @@ Use now in flightsheet: https://github.com/devshellX/codx-qubic/releases/downloa
 
 If you appreciate my work and want to contribute to its ongoing development, consider leaving a tip. Every contribution, big or small, makes a huge difference and motivates me to continue creating and improving.
 
-- **To support me, use Qubic:** `BQWSCKVUGHFFSEXVWYGVQMKYAGDBENGFQFFJMHAJZGFGXJAYROSZKJGGGJTD`
+- **To support me, use Qubic:** `KQFAELDFMXGHTEZDLGZUJOOXPGNBKIOVPDYZGZOKXEJVVMDNQXCHWEBFRWBF`
 - **To support eloword, use Qubic:** `QYGPXYBKNIDKVFFUWMMJFPWNMPXAPAVFEFEJOTUEIALMQZEFNKXOUUQEWBOM` - ** thnx to hard work Eloword
 
 
